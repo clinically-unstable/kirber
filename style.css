@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(#ff7fff, #540202);
+    height: 5000px;
+}
+
+h1 {
+    color: whitesmoke;
+}
+h2 {
+    color: yellow;
+}
+a {
+    color: #540202;
+}
+a:hover {
+    color: black;
+}
+
+.max {
+display: block;
+  margin: auto;
+  width: 100%;
+}
+
+.center {
+    text-align: center;
+}
