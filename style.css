@@ -3,14 +3,20 @@ body {
     height: 5000px;
 }
 
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aquamarine;
+}
+
 h1 {
+    font-size: xx-large;
     color: whitesmoke;
 }
 h2 {
     color: yellow;
 }
 h3 {
-   font-size: xx-large;
+   font-size: x-large;
     color: darkred;
 }
 a {
@@ -20,9 +26,7 @@ a:hover {
     color: black;
 }
 
-#yes {
-    
-}
+#C4
 
 .max {
 display: block;
@@ -34,6 +38,21 @@ display: block;
     text-align: center;
 }
 
+.highlight {
+    background-color: burlywood;
+}
+
+#big {
+    width: 600px;
+}
+
+.color {
+    width: fit-content;
+    height: 50px;
+    background-color: blanchedalmond;
+    margin: 5px;
+}
+
 /*Custom Font*/
 .microbe {
     font-family: "Rubik Microbe", system-ui;
@@ -41,3 +60,4 @@ display: block;
     font-style: normal;
   }
   
+
